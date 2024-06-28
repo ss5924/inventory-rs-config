@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>me.songha.rs</groupId>
 	<artifactId>inventory-rs-config</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>inventory-rs-config</name>
 	<description>inventory-rs-config</description>
 	<properties>
